@@ -1,0 +1,55 @@
+html{
+  background-color: #e6f5ff;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+img{
+  text-align: center;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+h1{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 250%;
+  text-align: center;
+  color: #000000;
+}
+p{
+  font-family: "Open Sans", sans-serif;
+  font-size: 150%;
+}
+h4{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+h3{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+h2{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+ul{
+  text-align: center;
+  /* Go to W3Schools to find more CSS codes on fonts.*/
+}
